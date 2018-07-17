@@ -1,12 +1,12 @@
 {
-    "name": "buonzz/composer-library-template",
-    "description": "Boilerplate package for creating other packages.",
-    "keywords": ["template", "composer", "package"],
+    "name": "sahithvibudhi/php-lazal",
+    "description": "A PHP Lazal Client",
+    "keywords": ["lazal", "cache", "fast cache", "DB", "in memory", "php-lazal"],
     "license": "DBAD",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "Sahith Vibudhi",
+            "email": "v.sahithkumar@gmail.com"
         }
     ],
     "type": "project",
@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Buonzz\\Template\\": "src/"
+            "Lazal\\Client\\": "src/"
         }
     }
 }
