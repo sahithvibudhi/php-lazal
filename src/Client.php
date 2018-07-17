@@ -4,16 +4,14 @@ namespace Lazal;
 
 use Exception;
 /**
-*  A sample class
+*  returns a Lazal connection
 *
-*  Use this section to define what this class is doing, the PHPDocumentator will use this
-*  to automatically generate an API documentation using this information.
 *
-*  @author yourname
+*  @author v.sahithkumar@gmail.com
 */
 class Client {
 
-   /**  @var string $m_SampleProperty define here what this variable is for, do this for every instance variable */
+   /**  @var string $_socket instance of php socket*/
    private $_sock = '';
  
   /**
