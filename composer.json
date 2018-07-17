@@ -2,7 +2,7 @@
     "name": "sahithvibudhi/php-lazal",
     "description": "A PHP Lazal Client",
     "keywords": ["lazal", "cache", "fast cache", "DB", "in memory", "php-lazal"],
-    "license": "DBAD",
+    "license": "gpl-3.0",
     "authors": [
         {
             "name": "Sahith Vibudhi",
