@@ -9,7 +9,6 @@
             "email": "v.sahithkumar@gmail.com"
         }
     ],
-    "type": "project",
     "require": {
 		"php": ">=5.4"
     },
